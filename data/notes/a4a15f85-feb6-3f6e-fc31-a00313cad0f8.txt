@@ -1,0 +1,16 @@
+Patient: Patient-a4a15f, 96-year-old M
+
+Chief Complaint:
+. 
+
+Medical History:
+Otitis media, Coronary Heart Disease, Concussion with loss of consciousness, Streptococcal sore throat (disorder), Sprain of wrist, Viral sinusitis (disorder), Myocardial Infarction, History of myocardial infarction (situation)
+
+Clinical Findings:
+Body Height; Pain severity - 0-10 verbal numeric rating [Score] - Reported; Body Weight; Weight-for-length Per age and sex; Head Occipital-frontal circumference
+
+Medications:
+Aspirin 81 MG Oral Tablet, Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray, Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray, Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray, Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray, Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray, Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray, Penicillin V Potassium 250 MG Oral Tablet, Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray, Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray, Aspirin 81 MG Oral Tablet, Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray, Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+
+Plan:
+Follow up as necessary.

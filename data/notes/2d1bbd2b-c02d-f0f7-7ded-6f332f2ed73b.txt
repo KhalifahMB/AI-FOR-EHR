@@ -1,0 +1,16 @@
+Patient: Patient-2d1bbd, 58-year-old M
+
+Chief Complaint:
+. 
+
+Medical History:
+Risk activity involvement (finding), Received certificate of high school equivalency (finding), Lack of access to transportation (finding), Stress (finding), Transport problems (finding), Chronic sinusitis (disorder), Limited social contact (finding), Stress (finding), Not in labor force (finding), Social isolation (finding), Sepsis (disorder), Septic shock (disorder), Not in labor force (finding), Stress (finding), Not in labor force (finding), Prediabetes, Not in labor force (finding), Full-time employment (finding), Stress (finding), Part-time employment (finding), Anemia (disorder), Part-time employment (finding), Full-time employment (finding), Stress (finding), Full-time employment (finding), Severe anxiety (panic) (finding, Full-time employment (finding), Full-time employment (finding), Stress (finding), Viral sinusitis (disorder), Streptococcal sore throat (disorder), Not in labor force (finding)
+
+Clinical Findings:
+Body Height; Pain severity - 0-10 verbal numeric rating [Score] - Reported; Body Weight; Body Mass Index; Diastolic Blood Pressure
+
+Medications:
+piperacillin 2000 MG / tazobactam 250 MG Injection, 150 ML vancomycin 5 MG/ML Injection, Penicillin V Potassium 500 MG Oral Tablet
+
+Plan:
+Follow up as necessary.

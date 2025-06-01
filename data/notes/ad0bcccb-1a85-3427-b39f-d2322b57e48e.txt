@@ -1,0 +1,16 @@
+Patient: Patient-ad0bcc, 89-year-old M
+
+Chief Complaint:
+. 
+
+Medical History:
+Otitis media, Seizure disorder, History of single seizure (situation), Otitis media
+
+Clinical Findings:
+Body Height; Pain severity - 0-10 verbal numeric rating [Score] - Reported; Body Weight; Weight-for-length Per age and sex; Head Occipital-frontal circumference
+
+Medications:
+Aspirin 81 MG Oral Tablet, Diazepam 5 MG Oral Tablet, clonazePAM 0.25 MG Oral Tablet, Aspirin 81 MG Oral Tablet
+
+Plan:
+Follow up as necessary.

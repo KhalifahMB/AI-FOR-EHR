@@ -1,0 +1,16 @@
+Patient: Patient-71edb8, 39-year-old F
+
+Chief Complaint:
+. 
+
+Medical History:
+Chronic sinusitis (disorder), Risk activity involvement (finding), Received certificate of high school equivalency (finding), Full-time employment (finding), Full-time employment (finding), Normal pregnancy, Normal pregnancy, Preeclampsia, Full-time employment (finding), Stress (finding), Normal pregnancy, Miscarriage in first trimester, Fetus with unknown complication, Viral sinusitis (disorder), Body mass index 30+ - obesity (finding), Full-time employment (finding), Laceration of foot, Full-time employment (finding), Stress (finding), Normal pregnancy, Acute bronchitis (disorder), Full-time employment (finding), Viral sinusitis (disorder)
+
+Clinical Findings:
+Body Height; Pain severity - 0-10 verbal numeric rating [Score] - Reported; Body Weight; Body Mass Index; Diastolic Blood Pressure
+
+Medications:
+Etonogestrel 68 MG Drug Implant, Jolivette 28 Day Pack, Naproxen sodium 220 MG Oral Tablet, Acetaminophen 325 MG Oral Tablet, Etonogestrel 68 MG Drug Implant
+
+Plan:
+Follow up as necessary.
