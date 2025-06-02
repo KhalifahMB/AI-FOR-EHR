@@ -1,0 +1,16 @@
+Patient: Patient-f20df0, 57-year-old M
+
+Chief Complaint:
+. 
+
+Medical History:
+Served in armed forces (finding), Housing unsatisfactory (finding), Only received primary school education (finding), Unemployed (finding), Major depression disorder, Social isolation (finding), Chronic pain, Limited social contact (finding), Stress (finding), Stress (finding), Body mass index 30+ - obesity (finding), Stress (finding), Stress (finding), Viral sinusitis (disorder), Acute bronchitis (disorder), Stress (finding), Appendicitis, History of appendectomy, Stress (finding), Stress (finding)
+
+Clinical Findings:
+Body Height; Pain severity - 0-10 verbal numeric rating [Score] - Reported; Body Weight; Body Mass Index; Diastolic Blood Pressure
+
+Medications:
+FLUoxetine 20 MG Oral Capsule, FLUoxetine 20 MG Oral Capsule, FLUoxetine 20 MG Oral Capsule, Sertraline 100 MG Oral Tablet, Acetaminophen/Hydrocodone, Acetaminophen 325 MG Oral Tablet
+
+Plan:
+Follow up as necessary.

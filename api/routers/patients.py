@@ -1,4 +1,4 @@
-from fastapi import APIRouter
+from fastapi import APIRouter , Query
 import pandas as pd
 from fastapi.responses import JSONResponse
 
@@ -10,8 +10,18 @@ patients_df = pd.read_csv(DATA_DIR + "patients.csv").fillna('')
 
 
 @router.get("/all")
-def get_all_patients():
-    return patients_df[["Id", "FIRST", "LAST", "GENDER", "RACE", "ETHNICITY", "BIRTHDATE"]].to_dict(orient="records")
+def get_patients(page: int = Query(1, ge=1), limit: int = Query(20, ge=1, le=100)):
+    start = (page - 1) * limit
+    end = start + limit
+    total = len(patients_df)
+    sliced = patients_df.iloc[start:end][[
+        "Id", "FIRST", "LAST", "GENDER", "RACE", "ETHNICITY", "BIRTHDATE"]]
+    return {
+        "data": sliced.to_dict(orient="records"),
+        "total": total,
+        "page": page,
+        "limit": limit
+    }
 
 
 @router.get("/get_patient/{patient_id}")

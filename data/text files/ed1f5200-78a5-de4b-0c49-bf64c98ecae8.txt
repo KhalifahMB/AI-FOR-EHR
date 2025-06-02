@@ -1,0 +1,16 @@
+Patient: Patient-ed1f52, 38-year-old F
+
+Chief Complaint:
+. 
+
+Medical History:
+Received higher education (finding), Lack of access to transportation (finding), Transport problems (finding), Part-time employment (finding), Limited social contact (finding), Stress (finding), Acute bronchitis (disorder), Viral sinusitis (disorder), Chronic low back pain (finding), Chronic neck pain (finding), Normal pregnancy, Full-time employment (finding), Part-time employment (finding), Limited social contact (finding), Stress (finding), Viral sinusitis (disorder), Acute viral pharyngitis (disorder), Viral sinusitis (disorder), Full-time employment (finding), Has a criminal record (finding), Not in labor force (finding), Stress (finding), Acute bronchitis (disorder), Part-time employment (finding), Part-time employment (finding), Normal pregnancy, Body mass index 30+ - obesity (finding), Full-time employment (finding), Full-time employment (finding), Full-time employment (finding), Stress (finding), Victim of intimate partner abuse (finding), Normal pregnancy, Not in labor force (finding)
+
+Clinical Findings:
+What number best describes how  during the past week  pain has interfered with your general activity?; What number best describes how  during the past week  pain has interfered with your enjoyment of life?; What number best describes your pain on average in the past week?; Drugs of abuse 5 panel - Urine by Screen method; Pain severity - Reported
+
+Medications:
+Camila 28 Day Pack, Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution, Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet, Acetaminophen 325 MG Oral Tablet [Tylenol], Acetaminophen 325 MG Oral Tablet [Tylenol], Acetaminophen 325 MG Oral Tablet [Tylenol], Yaz 28 Day Pack, Acetaminophen 325 MG Oral Tablet [Tylenol], Acetaminophen 325 MG Oral Tablet [Tylenol], Acetaminophen 325 MG Oral Tablet [Tylenol], Acetaminophen 325 MG Oral Tablet, Acetaminophen 325 MG Oral Tablet [Tylenol], Acetaminophen 325 MG Oral Tablet [Tylenol], Liletta 52 MG Intrauterine System, Acetaminophen 325 MG Oral Tablet [Tylenol], Acetaminophen 325 MG Oral Tablet [Tylenol], Mirena 52 MG Intrauterine System, Acetaminophen 325 MG Oral Tablet [Tylenol], Acetaminophen 325 MG Oral Tablet [Tylenol], Jolivette 28 Day Pack, Acetaminophen 325 MG Oral Tablet [Tylenol]
+
+Plan:
+Follow up as necessary.

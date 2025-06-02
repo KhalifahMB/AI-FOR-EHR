@@ -1,0 +1,16 @@
+Patient: Patient-329e2b, 60-year-old M
+
+Chief Complaint:
+. 
+
+Medical History:
+Risk activity involvement (finding), Housing unsatisfactory (finding), Received certificate of high school equivalency (finding), Social isolation (finding), Prediabetes, Not in labor force (finding), Social isolation (finding), Anemia (disorder), Full-time employment (finding), Part-time employment (finding), Chronic low back pain (finding), Chronic neck pain (finding), Full-time employment (finding), Stress (finding), Full-time employment (finding), Acute viral pharyngitis (disorder), Full-time employment (finding), Limited social contact (finding), Stress (finding), Full-time employment (finding), Full-time employment (finding), Laceration of foot, Full-time employment (finding), Stress (finding), Reports of violence in the environment (finding), Acute viral pharyngitis (disorder), Full-time employment (finding), Limited social contact (finding), Full-time employment (finding), Acute viral pharyngitis (disorder), Not in labor force (finding), Social isolation (finding), Acute bronchitis (disorder)
+
+Clinical Findings:
+Body Height; Pain severity - 0-10 verbal numeric rating [Score] - Reported; Body Weight; Body Mass Index; Diastolic Blood Pressure
+
+Medications:
+ferrous sulfate 325 MG Oral Tablet, Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet, Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet, Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet, Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet, Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet, Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet, Acetaminophen 325 MG Oral Tablet, Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet, Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet, Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet, Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet, Acetaminophen 325 MG Oral Tablet
+
+Plan:
+Follow up as necessary.

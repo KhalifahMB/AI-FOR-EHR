@@ -1,0 +1,16 @@
+Patient: Patient-2c0f44, 53-year-old F
+
+Chief Complaint:
+. 
+
+Medical History:
+Risk activity involvement (finding), Body mass index 30+ - obesity (finding), Risk activity involvement (finding), Received higher education (finding), Full-time employment (finding), Social isolation (finding), Stress (finding), Full-time employment (finding), Limited social contact (finding), Full-time employment (finding), Full-time employment (finding), Stress (finding), Full-time employment (finding), Full-time employment (finding), Stress (finding), Normal pregnancy, Chronic low back pain (finding), Chronic neck pain (finding), Part-time employment (finding), Viral sinusitis (disorder), Full-time employment (finding), Full-time employment (finding), Severe anxiety (panic) (finding, Normal pregnancy, Full-time employment (finding), Part-time employment (finding), Limited social contact (finding), Full-time employment (finding), Stress (finding), Full-time employment (finding), Part-time employment (finding), Full-time employment (finding)
+
+Clinical Findings:
+What number best describes how  during the past week  pain has interfered with your general activity?; What number best describes how  during the past week  pain has interfered with your enjoyment of life?; What number best describes your pain on average in the past week?; Drugs of abuse 5 panel - Urine by Screen method; Pain severity - Reported
+
+Medications:
+Mirena 52 MG Intrauterine System, Acetaminophen 325 MG Oral Tablet [Tylenol], Acetaminophen 325 MG Oral Tablet [Tylenol], Acetaminophen 325 MG Oral Tablet [Tylenol], Mirena 52 MG Intrauterine System, Acetaminophen 325 MG Oral Tablet [Tylenol], Levora 0.15/30 28 Day Pack, Acetaminophen 325 MG Oral Tablet [Tylenol], Acetaminophen 325 MG Oral Tablet [Tylenol], Levora 0.15/30 28 Day Pack, Acetaminophen 325 MG Oral Tablet [Tylenol], Yaz 28 Day Pack, Acetaminophen 325 MG Oral Tablet [Tylenol], Acetaminophen 325 MG Oral Tablet [Tylenol], Acetaminophen 325 MG Oral Tablet [Tylenol], 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection, Acetaminophen 325 MG Oral Tablet [Tylenol]
+
+Plan:
+Follow up as necessary.

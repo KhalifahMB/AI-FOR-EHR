@@ -1,0 +1,16 @@
+Patient: Patient-c8dff0, 53-year-old F
+
+Chief Complaint:
+. 
+
+Medical History:
+Body mass index 30+ - obesity (finding), Risk activity involvement (finding), Received higher education (finding), Unemployed (finding), Transport problems (finding), Stress (finding), Victim of intimate partner abuse (finding), Lack of access to transportation (finding), Social isolation (finding), Normal pregnancy, Acute bronchitis (disorder), Reports of violence in the environment (finding), Normal pregnancy, Sepsis (disorder), Acute respiratory distress syndrome (disorder)
+
+Clinical Findings:
+Body Height; Pain severity - 0-10 verbal numeric rating [Score] - Reported; Body Weight; Body Mass Index; Diastolic Blood Pressure
+
+Medications:
+Norinyl 1+50 28 Day Pack, Estrostep Fe 28 Day Pack, Acetaminophen 325 MG Oral Tablet, Levonorgestrel 0.00354 MG/HR Drug Implant, Etonogestrel 68 MG Drug Implant, piperacillin 2000 MG / tazobactam 250 MG Injection, 150 ML vancomycin 5 MG/ML Injection
+
+Plan:
+Follow up as necessary.

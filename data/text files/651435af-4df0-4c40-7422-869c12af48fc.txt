@@ -1,0 +1,16 @@
+Patient: Patient-651435, 82-year-old M
+
+Chief Complaint:
+. 
+
+Medical History:
+Full-time employment (finding), Lack of access to transportation (finding), Stress (finding), Received certificate of high school equivalency (finding), Full-time employment (finding), Transport problems (finding), Full-time employment (finding), Full-time employment (finding), Full-time employment (finding), Stress (finding), Full-time employment (finding), Full-time employment (finding), Full-time employment (finding), Full-time employment (finding), Full-time employment (finding), Full-time employment (finding), Stress (finding), Full-time employment (finding), Full-time employment (finding), Full-time employment (finding), Full-time employment (finding), Full-time employment (finding), Stress (finding), Full-time employment (finding), Full-time employment (finding), Full-time employment (finding), Stress (finding), Full-time employment (finding), Full-time employment (finding), Full-time employment (finding), Stress (finding), Full-time employment (finding), Osteoporosis (disorder), Full-time employment (finding), Full-time employment (finding), Stress (finding), Full-time employment (finding), Full-time employment (finding), Full-time employment (finding), Full-time employment (finding), Stress (finding), Full-time employment (finding), Full-time employment (finding), Part-time employment (finding), Full-time employment (finding), Social isolation (finding), Stress (finding), Full-time employment (finding), Full-time employment (finding), Full-time employment (finding), Full-time employment (finding), Stress (finding), Part-time employment (finding), Full-time employment (finding), Stress (finding), Victim of intimate partner abuse (finding), Full-time employment (finding), Social isolation (finding), Hyperlipidemia, Part-time employment (finding), Full-time employment (finding), Stress (finding)
+
+Clinical Findings:
+Body Height; Pain severity - 0-10 verbal numeric rating [Score] - Reported; Body Weight; Body Mass Index; Diastolic Blood Pressure
+
+Medications:
+Alendronic acid 10 MG Oral Tablet, Simvastatin 10 MG Oral Tablet, Simvastatin 10 MG Oral Tablet
+
+Plan:
+Follow up as necessary.
